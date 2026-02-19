@@ -8,5 +8,6 @@
 
 
 ---
-[<img src="https://cdn.simpleicons.org/velog/20C997" height="16" /> velog.io/@xe0](https://velog.io/@xe0/posts)  
-[<img src="https://cdn.simpleicons.org/gmail/EA4335" height="16" /> xhae000@gmail.com](mailto:xhae000@gmail.com)
+
+blog · [velog.io/@xe0](https://velog.io/@xe0/posts)  
+contact · [xhae000@gmail.com](mailto:xhae000@gmail.com)
