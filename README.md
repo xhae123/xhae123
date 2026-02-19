@@ -4,9 +4,6 @@
 - I also work as a programming instructor at a coding academy, teaching computer science to secondary students.
 - I study Computer Science at Kyung Hee University, applying academic theory to production-grade engineering.
 
-<br>
-
-
 ---
 
 blog · [velog.io/@xe0](https://velog.io/@xe0/posts)  
