@@ -14,4 +14,4 @@
 
 <br>
 
-**blog: https://xhae123.github.io**
+[🐳 about me & writing](https://xhae123.github.io)
