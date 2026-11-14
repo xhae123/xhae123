@@ -1,1 +1,1 @@
-[🐳 about me & writing](https://xhae123.github.io)
+[🐳 블로그](https://xhae123.github.io)
